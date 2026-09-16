@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "VideoGameCharacter.Api.Controllers.PersonagemController",
+    "Method": "GetAllPersonagens",
+    "RelativePath": "api/Personagem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[VideoGameCharacter.Api.Dtos.GetPersonagemDto, VideoGameCharacter.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameCharacter.Api.Controllers.PersonagemController",
+    "Method": "AddPersonagem",
+    "RelativePath": "api/Personagem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personagemDto",
+        "Type": "VideoGameCharacter.Api.Dtos.CriarPersonagemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameCharacter.Api.Models.Personagem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameCharacter.Api.Controllers.PersonagemController",
+    "Method": "GetPersonagensById",
+    "RelativePath": "api/Personagem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameCharacter.Api.Dtos.GetPersonagemDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameCharacter.Api.Controllers.PersonagemController",
+    "Method": "PutPersonagem",
+    "RelativePath": "api/Personagem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "personagem",
+        "Type": "VideoGameCharacter.Api.Dtos.AtualizarPersonagemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameCharacter.Api.Models.Personagem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameCharacter.Api.Controllers.PersonagemController",
+    "Method": "DeletePersonagem",
+    "RelativePath": "api/Personagem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameCharacter.Api.Models.Personagem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
