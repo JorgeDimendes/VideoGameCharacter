@@ -1,0 +1,11 @@
+# .NET
+bin/
+obj/
+
+# JetBrains / Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
