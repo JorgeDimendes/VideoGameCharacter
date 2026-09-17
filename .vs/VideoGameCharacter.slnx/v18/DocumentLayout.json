@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\controllers\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\controllers\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\services\\personagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\services\\personagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\services\\ipersonagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\services\\ipersonagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\dtos\\criarpersonagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\dtos\\criarpersonagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\dtos\\atualizarpersonagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\dtos\\atualizarpersonagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|solutionrelative:videogamecharacter.api\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17272DC9-13BE-E837-C9F0-3DD6284361F7}|VideoGameCharacter.Api\\VideoGameCharacter.Api.csproj|c:\\users\\caram\\documents\\webapic#\\youtube\\videogamecharacter\\videogamecharacter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Program.cs",
               "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Program.cs",
@@ -47,11 +31,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-13T14:18:06.769Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Models\\Personagem.cs",
+              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Models\\Personagem.cs",
+              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Models\\Personagem.cs",
+              "RelativeToolTip": "VideoGameCharacter.Api\\Models\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:40:01.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -60,67 +54,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CriarPersonagemDto.cs",
-              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Dtos\\CriarPersonagemDto.cs",
-              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Dtos\\CriarPersonagemDto.cs",
-              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Dtos\\CriarPersonagemDto.cs",
-              "RelativeToolTip": "VideoGameCharacter.Api\\Dtos\\CriarPersonagemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T13:07:24.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AtualizarPersonagemDto.cs",
-              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Dtos\\AtualizarPersonagemDto.cs",
-              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Dtos\\AtualizarPersonagemDto.cs",
-              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Dtos\\AtualizarPersonagemDto.cs",
-              "RelativeToolTip": "VideoGameCharacter.Api\\Dtos\\AtualizarPersonagemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T12:32:27.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPersonagemService.cs",
-              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Services\\IPersonagemService.cs",
-              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Services\\IPersonagemService.cs",
-              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Services\\IPersonagemService.cs",
-              "RelativeToolTip": "VideoGameCharacter.Api\\Services\\IPersonagemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T14:27:29.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonagemService.cs",
-              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Services\\PersonagemService.cs",
-              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Services\\PersonagemService.cs",
-              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Services\\PersonagemService.cs",
-              "RelativeToolTip": "VideoGameCharacter.Api\\Services\\PersonagemService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAA7wFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T14:27:39.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonagemController.cs",
-              "DocumentMoniker": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Controllers\\PersonagemController.cs",
-              "RelativeDocumentMoniker": "VideoGameCharacter.Api\\Controllers\\PersonagemController.cs",
-              "ToolTip": "C:\\Users\\caram\\Documents\\WebApiC#\\YouTube\\VideoGameCharacter\\VideoGameCharacter.Api\\Controllers\\PersonagemController.cs",
-              "RelativeToolTip": "VideoGameCharacter.Api\\Controllers\\PersonagemController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T19:31:18.528Z",
-              "EditorCaption": ""
             }
           ]
         }
